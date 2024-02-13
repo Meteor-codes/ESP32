@@ -4,29 +4,13 @@
 
 *主程序是boot.py，需要将仓库里面的代码都下载：
 
-|____templates
-|   |
-|   |
-|   |
-|   |__index.html
-|   |
-|   |
-|   |
-|   |__open.html
-|   |
-|   |
-|   |
-|   |__close.html
-|
-|   
-|   
-|____microdot.py
-|   
-|   
-|____demo.py
-|
-|   
-|____boot.py
+>templates
+>>index.html
+>>open.html
+>>close.html
+>microdot.py
+>demo.py
+>boot.py
 
 
-官网：https://0meteor0.pythonanywhere.com/
+*官网：https://0meteor0.pythonanywhere.com/
