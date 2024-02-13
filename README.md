@@ -6,16 +6,22 @@
 
 |____templates
 |   |
+|   |
 |   |__index.html
+|   |
 |   |
 |   |__open.html
 |   |
+|   |
 |   |__close.html
 |
+|   
 |____microdot.py
-
+|   
+|   
 |____demo.py
 |
+|   
 |____boot.py
 
 
