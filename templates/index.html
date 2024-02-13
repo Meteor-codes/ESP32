@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>ESP32 D2 Control</title>
+    <script>
+        function redirectTo(url) {
+            setTimeout(function() {
+                window.location.href = url;
+            }, 1000);
+        }
+    </script>
+</head>
+<body>
+    <div>D2 Control</div>
+    <button onclick="redirectTo('/control/open')">open</button>
+    <button onclick="redirectTo('/control/close')">close</button>
+</body>
+</html>
+
