@@ -7,10 +7,13 @@
 |____templates
 |   |
 |   |
+|   |
 |   |__index.html
 |   |
 |   |
+|   |
 |   |__open.html
+|   |
 |   |
 |   |
 |   |__close.html
