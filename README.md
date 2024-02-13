@@ -6,8 +6,8 @@
 
 >templates
 >>index.html
->>open.html
->>close.html
+>>>open.html
+>>>close.html
 >microdot.py
 >demo.py
 >boot.py
