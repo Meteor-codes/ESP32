@@ -5,17 +5,17 @@
 *主程序是boot.py，需要将仓库里面的代码都下载：
 
 >templates
-
+>
 >>index.html
-
+>>
 >>open.html
-
+>>
 >>close.html
-
+>
 >microdot.py
-
+>
 >demo.py
-
+>
 >boot.py
 
 
